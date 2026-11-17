@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Kick Legacy",
+  "description": "Retro 2D/2.5D pixel-art football game with 11v11 real-time gameplay, FSM AI, Career Mode, Tournament, Training, and Local Multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

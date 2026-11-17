@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pixel Kick Legacy</string>
+    <string name="menu_play_match">PLAY MATCH</string>
+    <string name="menu_career_mode">CAREER MODE</string>
+    <string name="menu_tournament">TOURNAMENT</string>
+    <string name="menu_training">TRAINING</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_exit">EXIT GAME</string>
+</resources>
